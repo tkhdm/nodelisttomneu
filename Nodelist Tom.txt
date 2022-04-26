@@ -1,0 +1,6 @@
+id,name,age,education,religion
+Tom,Tom,26,abi,evang
+Jannik,Jannik,27,abi,evang
+Ingrid,Ingrid,55,studium,evang
+Fabio,Fabio,24,abi,evang
+Antje,Antje,54,studium,evang
